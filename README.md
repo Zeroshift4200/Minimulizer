@@ -1,4 +1,4 @@
-#Minimulizer
+# Minimulizer
 ====
 Discordを小さくするプラグイン
 
